@@ -24,7 +24,7 @@ This extension is currently distributed as an **unpacked Chrome extension**.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/chatgpt-auto-read-aloud.git
+git clone https://github.com/devarma2/chatgpt-auto-read-aloud.git
 ```
 
 Or download the repository as a ZIP from GitHub and extract it.
