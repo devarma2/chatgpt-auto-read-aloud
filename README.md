@@ -166,6 +166,7 @@ chatgpt-auto-read-aloud/
 ├── content.js
 ├── popup.html
 ├── popup.js
+├── LICENSE
 └── README.md
 ```
 
